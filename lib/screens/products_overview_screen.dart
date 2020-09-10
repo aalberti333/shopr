@@ -7,35 +7,35 @@ class ProductsOverviewScreen extends StatelessWidget {
   final List<Product> loadedProducts = [
     Product(
       id: 'p1',
-      title: 'Red Shirt',
-      description: 'A red shirt - it is pretty red!',
-      price: 29.99,
+      title: 'Yeezy 350',
+      description: 'Off-yellow',
+      price: 229.99,
       imageUrl:
-          'https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg',
+          'https://images.unsplash.com/photo-1597265245060-dad51a9463c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80',
     ),
     Product(
       id: 'p2',
-      title: 'Trousers',
-      description: 'A nice pair of trousers.',
-      price: 59.99,
+      title: 'Nike Hightops',
+      description: 'Green',
+      price: 159.99,
       imageUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
+          'https://images.unsplash.com/photo-1596644503782-fc9376910762?ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=80',
     ),
     Product(
       id: 'p3',
-      title: 'Yellow Scarf',
-      description: 'Warm and cozy - exactly what you need for the winter.',
-      price: 19.99,
+      title: 'Nike Air',
+      description: 'Blue',
+      price: 119.99,
       imageUrl:
-          'https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg',
+          'https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
     ),
     Product(
       id: 'p4',
-      title: 'A Pan',
-      description: 'Prepare any meal you want.',
-      price: 49.99,
+      title: 'Air Jordans',
+      description: 'Orange',
+      price: 149.99,
       imageUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
+          'https://images.unsplash.com/photo-1597264658047-ddb23688aa3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     ),
   ];
 
